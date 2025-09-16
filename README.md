@@ -36,6 +36,7 @@ users = {
     "4321": {"name": "Charlie", "balance": 10000, "transactions": []}
 }
 📸 Sample Menu
+
 ====== ATM MENU (Alice) ======
 1. Check Balance
 2. Deposit Money
